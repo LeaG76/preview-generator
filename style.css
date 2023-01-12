@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+}
+
+html {
+    min-height: 100%;
+}
+
+body {
+    /*background: linear-gradient(#ffffff, #C1AC95);
+    background-repeat: no-repeat;*/
+    background-color: #f2eee9;
+    overflow: hidden;
+}
+
+.container {
+    margin: 100px 75px;
+    height: 750px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    width: 45%;
+    color: #7f9171;
+    text-transform: uppercase;
+    font-size: 160px;
+    font-weight: 600;
+    padding-left: 50px;
+    line-height: 140px;
+}
+
+.first {
+    color: #C1AC95;
+}
+
+.pictures {
+    width: 65%;
+}
+
+.picture1 {
+    position:absolute;
+    z-index: 3;
+    top: 400px;
+    left: 925px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+}
+
+.picture2 {
+    position:absolute;
+    z-index: 2;
+    top: 200px;
+    left: 1175px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+}
