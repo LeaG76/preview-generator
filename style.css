@@ -48,19 +48,19 @@ body {
 .picture1 {
     position:absolute;
     z-index: 3;
-    top: 400px;
+    top: 425px;
     left: 925px;
-    height: 350px;
+    height: 400px;
     border-radius: 10px;
-    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.3);
 }
 
 .picture2 {
     position:absolute;
     z-index: 2;
-    top: 200px;
-    left: 1175px;
-    height: 350px;
+    top: 175px;
+    left: 1100px;
+    height: 400px;
     border-radius: 10px;
-    box-shadow: 0 0 50px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.3);
 }
