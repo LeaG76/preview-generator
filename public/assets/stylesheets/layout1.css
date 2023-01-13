@@ -1,27 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@500&display=swap');
-
-:root {
-    /* Color palette 1 (beige and khaki colors) */
-    --background-1 : #f2eee9;
-    --color-primary-1 : #7f9171;
-    --color-secondary-1 : #C1AC95;
-
-    /* Color palette 2 (brown and ??? colors) */
-
-    /* Color palette 3 (gray and white colors) */
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Sofia Sans Extra Condensed', sans-serif;
-}
-
-html {
-    min-height: 100%;
-}
-
 body {
     background-color: var(--background-1);
     overflow: hidden;
