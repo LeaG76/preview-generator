@@ -18,6 +18,11 @@
 
 This project is responsive, it has been adapted to laptop and desktop format.
 
+## How to use
+
+Choose your favorite layout
+Choose your font if the layout uses text, choose the background color or linear colors
+
 ## Backgrounds
 
 ### Plain background
@@ -28,24 +33,35 @@ This project is responsive, it has been adapted to laptop and desktop format.
 
 ### Single picture
 
-- **Layout 1** : a single picture without text (horizontal orientation)
+- **Layout 1**: a single picture, horizontal orientation, without text
 
 <p align="center">
   <img title="Layout 1" alt="Layout1" src="assets/pictures/results/preview_layout1.png" width="1000px" />
 </p>
 
-(with ou without text)
-vertical orientation || horizontal orientation
+- **Layout 2**: a single picture, vertical orientation, without text
+
+- **Layout 3**: a single picture, horizontal orientation, text on the left
+
+- **Layout 4**: a single picture, horizontal orientation, text on the right
+
+- **Layout 5**: a single picture, vertical orientation, text on the left
+
+- **Layout 6**: a single picture, vertical orientation, text on the right
+
 
 ### Two pictures
 
-(with ou without text)
-vertical orientation || horizontal orientation
-
-- **Layout 2** : two pictures with horizontal orientation and text on the left:
+- **Layout 7**: two pictures, horizontal orientation, text on the left:
 
 <p align="center">
   <img title="Layout 2" alt="Layout2" src="assets/pictures/results/preview_layout2.png" width="1000px" />
 </p>
+
+- **Layout 8**: two pictures, horizontal orientation, text on the right:
+
+- **Layout 9**: two pictures, vertical orientation, text on the left:
+
+- **Layout 10**: two pictures, vertical orientation, text on the right:
 
 ### Three pictures

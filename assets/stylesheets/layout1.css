@@ -21,11 +21,11 @@ body {
 
 @media screen and (max-width: 1600px) {
     .container {
-        margin: 50px 75px;
+        margin: 25px 75px;
     }
 
     .picture {
         width: 1400px;
-        height: 610px;
+        height: 660px;
     }
 }
