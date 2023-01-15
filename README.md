@@ -39,7 +39,7 @@ vertical orientation || horizontal orientation
 - With text and horizontal orientation for pictures :
 
 <p align="center">
-  <img alt="Layout2" src="public/assets/pictures/results/preview_layout2.png" width="1000px" />
+  <img title="Layout 2" alt="Layout2" src="assets/pictures/results/preview_layout2.png" width="1000px" />
 </p>
 
 ### Three pictures
