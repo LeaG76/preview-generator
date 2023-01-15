@@ -28,6 +28,12 @@ This project is responsive, it has been adapted to laptop and desktop format.
 
 ### Single picture
 
+- **Layout 1** : a single picture without text (horizontal orientation)
+
+<p align="center">
+  <img title="Layout 1" alt="Layout1" src="assets/pictures/results/preview_layout1.png" width="1000px" />
+</p>
+
 (with ou without text)
 vertical orientation || horizontal orientation
 
@@ -36,7 +42,7 @@ vertical orientation || horizontal orientation
 (with ou without text)
 vertical orientation || horizontal orientation
 
-- With text and horizontal orientation for pictures :
+- **Layout 2** : two pictures with horizontal orientation and text on the left:
 
 <p align="center">
   <img title="Layout 2" alt="Layout2" src="assets/pictures/results/preview_layout2.png" width="1000px" />
