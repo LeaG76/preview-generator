@@ -5,7 +5,6 @@ body {
 
 .container {
     margin: 20px;
-    height: 750px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -15,10 +14,7 @@ body {
     width: 45%;
     color: var(--color-primary-1);
     text-transform: uppercase;
-    font-size: 160px;
     font-weight: 600;
-    padding-left: 50px;
-    line-height: 140px;
 }
 
 .first {
@@ -31,9 +27,7 @@ body {
 
 .picture1,
 .picture2 {
-    position:absolute;
-    height: 400px;
-    width: 600px;
+    position: absolute;
     object-fit: cover;
     border-radius: 15px;
     box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.3);
@@ -41,15 +35,43 @@ body {
 
 .picture1 {
     z-index: 3;
-    top: 425px;
-    left: 925px;
 }
 
 .picture2 {
     z-index: 2;
-    top: 175px;
-    left: 1100px;
 }
+
+/* Desktop screen */
+
+@media screen and (min-width: 1601px) {
+    .container {
+        height: 920px;
+    }
+
+    .text {
+        font-size: 200px;
+        line-height: 170px;
+        padding-left: 70px;
+    }
+
+    .picture1,
+    .picture2 {
+        height: 450px;
+        width: 700px;
+    }
+
+    .picture1 {
+        top: 415px;
+        left: 925px;
+    }
+    
+    .picture2 {
+        top: 135px;
+        left: 1100px;
+    }
+}
+
+/* Laptop screen */
 
 @media screen and (max-width: 1600px) {
     .container {

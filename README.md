@@ -55,7 +55,7 @@ Choose your font if the layout uses text, choose the background color or linear 
 - **Layout 7**: two pictures, horizontal orientation, text on the left:
 
 <p align="center">
-  <img title="Layout 7" alt="Layout7" src="assets/pictures/results/preview_layout7.png" width="1000px" />
+  <img title="Layout 7" alt="Layout7" src="assets/pictures/results/Capture.PNG" width="1000px" />
 </p>
 
 - **Layout 8**: two pictures, horizontal orientation, text on the right:
