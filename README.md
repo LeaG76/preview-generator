@@ -1,3 +1,11 @@
+***
+
+<p align="center">
+<img alt="Warning" src="https://cdn-icons-png.flaticon.com/512/595/595067.png" width="15px"/> <b>Project in progress</b> <img alt="Warning" src="https://cdn-icons-png.flaticon.com/512/595/595067.png" width="15px"/>
+</p>
+
+***
+
 <p align="center">
   <h1 align="center">Preview generator</h2>
   <p align="center">Generate previews for README.md on Github</p>
