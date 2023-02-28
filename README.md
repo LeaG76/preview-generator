@@ -1,14 +1,6 @@
-***
-
 <p align="center">
-<img alt="Warning" src="https://cdn-icons-png.flaticon.com/512/595/595067.png" width="15px"/> <b>Project in progress</b> <img alt="Warning" src="https://cdn-icons-png.flaticon.com/512/595/595067.png" width="15px"/>
-</p>
-
-***
-
-<p align="center">
-  <h1 align="center">Preview generator</h2>
-  <p align="center">Generate previews for README.md on Github</p>
+  <h1 align="center">Preview generator</h1>
+  <h4 align="center">Generate previews for yours README files on Github</h4>
 </p>
 
 <p align="center">
@@ -24,12 +16,12 @@
 
 ## About
 
-This project is responsive, it has been adapted to laptop and desktop format.
-
-## How to use
+## Get started
 
 Choose your favorite layout
 Choose your font if the layout uses text, choose the background color or linear colors
+
+> This project is responsive, it has been adapted to laptop and desktop format.
 
 ## Backgrounds
 
